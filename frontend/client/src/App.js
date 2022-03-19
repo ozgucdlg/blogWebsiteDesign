@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
 
-      <h2 style={{color:'red', fontSize:'24px'}}>WELCOME TO HOTEL RESERVATION SYSTEM </h2>
+      <h2 style={{color:'red', fontSize:'24px'}}>BLOG APP</h2> 
       
     </div>
   );
