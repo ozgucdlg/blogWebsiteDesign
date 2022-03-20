@@ -1,6 +1,6 @@
 import './App.css';
-import Topbar from './Topbar/Topbar'
-import Header from './Header/Header.js'
+import Topbar from './Components/Topbar/Topbar'
+import Home  from './Pages/Home/Home.js';
 
 
 function App() {
@@ -9,9 +9,12 @@ function App() {
     <div className="App">
       <Topbar/>
 
-      <h2 style={{color:'red', fontSize:'24px'}}>BLOG APP</h2> 
+      <Home />
 
-      <Header />
+
+
+
+      
 
      
       
